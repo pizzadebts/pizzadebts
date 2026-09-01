@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://file.garden/amd45evg90hz5PtR/IMG_3189.png" height="520">
-</p>
-<p align="center">
-  𝗌𝗂𝗀𝗇ㅤ𝗆𝗒ㅤ<a href="https://vixxie.atabook.org/">新𝖻𝗈𝗈𝗄</a>
-</p>
-<p align="center">
+<img src="https://file.garden/amd45evg90hz5PtR/IMG_3189.png" width="567" align="middle">
+<a href="https://vixxie.atabook.org/"><img src="https://file.garden/amd45evg90hz5PtR/atabook.png"width="150"></img></a>
+<p align="center"> 
   ૮₍´˶• . • ⑅ ₎ა
 </p>
 <p align="center">
